@@ -1,3 +1,5 @@
+<p align="center"><img src="https://github.com/socialized0/socialized0/blob/main/socialix2.png"></p>
+
 ### <p align="center"><strong>Hey there, I'm socialized0! Actually, I'm Socialix, but since someone else took my name in the past, I've decided to take this instead.</strong></p>
 
 I'm...
