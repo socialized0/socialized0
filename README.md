@@ -2,6 +2,8 @@
 
 ### <p align="center"><strong>Hey there, I'm socialized0! Actually, I'm Socialix, but since someone else took my name in the past, I've decided to take this instead.</strong></p>
 
+<p align="center"><a href="https://github-readme-stats.vercel.app"><img src="https://github-readme-stats.vercel.app/api?username=socialized0&show_icons=true&theme=dark"></a></p>
+
 I'm...
 - 🔭 currently working on my cool ideas, sadly, I will probably never update this file, that's why.
 - 🌱 currently learning JavaScript and advanced HTML
