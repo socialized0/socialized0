@@ -5,12 +5,12 @@
 <p align="center"><a href="https://github-readme-stats.vercel.app"><img src="https://github-readme-stats.vercel.app/api?username=socialized0&show_icons=true&theme=dark"></a></p>
 
 I'm...
-- 🔭 currently working on my cool ideas, sadly, I will probably never update this file, that's why.
-- 🌱 currently learning JavaScript and advanced HTML
+- 🔭 currently working on nothing.
+- 🌱 currently learning something and I don't want to change this README
 - 😃 a she/her, but you can call me with they/them
 
 You can...
 - 💬 ask me about everything
-- 📫 reach me guide: Go out of the Earth, and meet me at the edge of the Milkyway Galaxy! Just kidding, I actually don't know..
+- 📫 reach me guide: go to https://github.com/socialized0/socialized0/discussions and start a new discussion
 
-<p align="center">❓🎈 Fun fact of the century: You get famous 10 times if you copy paste this somewhere else, just kidding. Never chainmail spam, people.</p>
+<p align="center">❓🎈 Fun fact of the century: Vector is 10k quality images for 144p monitors!</p>
